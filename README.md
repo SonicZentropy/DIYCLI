@@ -1,11 +1,11 @@
-#Intended to make creation of simple Rust CLI apps fast and effective, no Cargo or setup required.
+# Intended to make creation of simple Rust CLI apps fast and effective, no Cargo or setup required.
 
 1. Put the ./bin folder onto your system PATH
 2. Write a simple rust script standalone .rs file
 3. Using Just, invoke the justfile build command with the name of the script (no .rs)
 4. Done!
 
-##LPT: ChatGPT prompt
+## LPT: ChatGPT prompt
 ```
 VERBOSITY: The user may use V=[0-3] to define code detail:
 - V=0 code golf
