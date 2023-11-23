@@ -1,4 +1,5 @@
-# Intended to make creation of simple Rust CLI apps fast and effective, no Cargo or setup required.
+# DIYCLI
+## Intended to make creation of simple Rust CLI apps fast and effective, no Cargo or setup required.
 
 1. Put the ./bin folder onto your system PATH
 2. Write a simple rust script standalone .rs file
